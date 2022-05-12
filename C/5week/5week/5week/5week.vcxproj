@@ -139,9 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="inoutPuiz.c" />
-    <ClCompile Include="print1.c" />
-    <ClCompile Include="print2.cpp" />
+    <ClCompile Include="1_inoutPuiz.c" />
+    <ClCompile Include="1_print1.c" />
+    <ClCompile Include="1_print2.cpp" />
+    <ClCompile Include="2_ifelse.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
